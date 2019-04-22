@@ -1,0 +1,8 @@
+[submodule "bbb/meta-bbb"]
+	path = bbb/meta-bbb
+	url = git://github.com/duanlv/meta-bbb.git
+	branch = thud
+[submodule "poky-thud"]
+	path = poky-thud
+	url = git://git.yoctoproject.org/poky.git
+	branch = thud
