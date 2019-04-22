@@ -1,6 +1,3 @@
 [submodule "poky-sumo"]
 	path = poky-sumo
 	url = git://git.yoctoproject.org/poky.git
-[submodule "bbb/meta-bbb"]
-	path = bbb/meta-bbb
-	url = git://github.com/jumpnow/meta-bbb
