@@ -1,4 +1,4 @@
 SANITY_VERSION 1
-TMPDIR /home/ubuntu/workspace/bbb/build/tmp
-SSTATE_DIR /home/ubuntu/workspace/bbb/build/sstate-cache
-NATIVELSBSTRING ubuntu-14.04
+TMPDIR /home/duanlv/git-workspace/bbb_yocto/bbb/build/tmp
+SSTATE_DIR /home/duanlv/git-workspace/bbb_yocto/bbb/build/sstate-cache
+NATIVELSBSTRING ubuntu-16.04
