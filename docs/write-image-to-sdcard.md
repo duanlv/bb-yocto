@@ -4,7 +4,7 @@ The bbb/meta-bbb/scripts directory contains some scripts to work with microSD ca
 - copy_boot.sh: copy bootloader and config file to boot partition
 - copy_rootfs.sh: copy Linux kernel, device tree and root file system to rootfs partition
 
-1. Creating partitions on microSD
+## Creating partitions on microSD
 ```sh
 $ cd bbb/meta-bbb/scripts
 $ sudo ./mk2parts.sh sdX
@@ -15,12 +15,12 @@ For example:
 $ sudo ./mk2parts.sh sdc
 ```
 
-2. Copy bootloader and configuration file
+## Copy bootloader and configuration file
 ```sh
 $ sudo ./copy_boot.sh sdc
 ```
 
-3. Copy kernel and root file system
+## Copy kernel and root file system
 ```sh
 $ sudo ./copy_boot.sh sdc console
 ```
